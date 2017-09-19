@@ -1,7 +1,7 @@
 package POO;
 public class Contato {
 
-	private String email;
+	private String email1;
 	
 	private String numero;
 	
